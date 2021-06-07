@@ -85,7 +85,7 @@ export const crosschainConfig: ChainbridgeConfig = {
       name: 'Avalanche',
       bridgeAddress: '0xD73CFAACEfe4812d350d38f634fA61eC3aFdFEbA',
       erc20HandlerAddress: '0xff7c781E1ed2A67a790Be70536299c7DFE4D5f33',
-      rpcUrl: 'https://api.avax-test.network/ext/bc/C/rpc',
+      rpcUrl: 'https://avalanche--fuji--rpc.datahub.figment.io/apikey/c863bd667354ebe021eaaf5f8908f8ef/ext/bc/C/rpc',
       type: 'Ethereum',
       blockExplorer: 'https://cchain.explorer.avax-test.network',
       nativeTokenSymbol: 'AVAX',
